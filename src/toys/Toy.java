@@ -1,6 +1,6 @@
 package toys;
 
-public abstract  class Toy {
+public class Toy {
     protected Integer id;
     protected String name;
     protected Integer freq;
@@ -15,5 +15,16 @@ public abstract  class Toy {
         return String.format("%s, %s, %s", id, name, freq);
     }
 
+    public Integer getFreq() {
+        return freq;
+    }
+
+    public Integer getId() {
+        return id;
+    }
+
+    public String getName() {
+        return name;
+    }
 }
 

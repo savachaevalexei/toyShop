@@ -1,0 +1,10 @@
+1 Kinght Draggin 10
+7 2112 12
+7 2109 14
+2 Rockin Railer 15
+3 Layin Lowrider 20
+7 2108 21
+5 Lonely monster 30
+6 2110 50
+7 2107 54
+4 Fire car 70
